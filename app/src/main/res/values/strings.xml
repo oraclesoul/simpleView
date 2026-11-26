@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">simpleView</string>
+    <string name="empty_title">No PDF open</string>
+    <string name="empty_hint">Open a PDF from your device to start reading.</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_go_to_page">Go to page</string>
+    <string name="menu_invert">Dark pages</string>
+    <string name="go_to_page_title">Go to page</string>
+    <string name="go_to_page_hint">1 – %1$d</string>
+    <string name="go">Go</string>
+    <string name="cancel">Cancel</string>
+    <string name="password_title">Password required</string>
+    <string name="password_hint">Password</string>
+    <string name="unlock">Unlock</string>
+    <string name="error_open">Couldn\'t open this PDF. The file may be damaged.</string>
+    <string name="error_password_unsupported">This PDF is password-protected. Opening protected PDFs needs Android 15 or newer.</string>
+    <string name="error_wrong_password">Wrong password.</string>
+    <string name="page_indicator">%1$d / %2$d</string>
+</resources>
